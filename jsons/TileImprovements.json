@@ -15,6 +15,6 @@
 	{
 		"name": "Customs house",
 		"gold": 4,
-		"uniques": ["Great Improvement", "[+4 Gold] <after discovering [Banking]>", "[+1 Gold] <after discovering [Economics]>"]
+		"uniques": ["Great Improvement", "[+5 Gold] <after discovering [Economics]>"]
 	},
 ]	
